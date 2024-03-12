@@ -10,3 +10,14 @@ let timer_check = '';
 let drawn_sketch = '';
 let answer_holder = '';
 let score = 0;
+
+function preload() {}
+
+function setup() {
+    canvas = createCanvas(280,280);
+    canvas.center();
+    background("white");
+}
+
+function draw() {}
+
